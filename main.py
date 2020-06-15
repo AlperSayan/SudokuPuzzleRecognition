@@ -1,4 +1,4 @@
-# DO NOT IMPORT ANY OTHER LIBRARY.
+
 import glob
 import operator
 import os
@@ -6,8 +6,6 @@ import cv2 as cv
 import natsort
 import numpy as np
 
-
-# define your own functions here, Including MNIST and the functions from your previous assignment:
 
 # Mustafa Alper Sayan S015674 Computer Science
 # this program approximately takes 4-5 minutes to finish
