@@ -7,7 +7,6 @@ import natsort
 import numpy as np
 
 
-# Mustafa Alper Sayan S015674 Computer Science
 # this program approximately takes 4-5 minutes to finish
 
 
